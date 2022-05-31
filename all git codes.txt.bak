@@ -50,5 +50,3 @@ DİKKAT: ana branch üzerinde iken her zaman (add commit push) yapmayı unutmaya
 git branch yeniBranchAdi
 git checkout yeniBranchAdi  VEYA (git switch yeniBranchAdi)
 
-
-
