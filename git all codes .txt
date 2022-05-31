@@ -47,6 +47,8 @@ git branch --all ==> (kısaltılması) ==> git branch -a
 
 DİKKAT: ana branch üzerinde iken her zaman (add commit push) yapmayı unutmayalım)
 
+git status 
+git log
 git branch yeniBranchAdi
 git checkout yeniBranchAdi  VEYA (git switch yeniBranchAdi)
 
