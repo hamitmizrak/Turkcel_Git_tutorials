@@ -58,7 +58,5 @@ git checkout -b yeniBranchVeDallan
 git branch --all 
 git branch -D branchAdi  //(Branchi Silmek)
 
-####################################################################################
-
 
 
