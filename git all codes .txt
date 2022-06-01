@@ -59,6 +59,11 @@ git branch --all
 git branch -D branchAdi  //(Branchi Silmek)
 
 ####################################################################################
+
+git log --all --graph --oneline --decorate
+git config --global alias.kisa "log --all --graph --oneline --decorate"
+git kisa
+
 git checkout -b backend
 pwd 
 mkdir frontend
@@ -68,6 +73,7 @@ cd ..
 git add .
 git commit -m "frontend" 
 git checkout main 
+git merge frontend
 
 git branch -D branchAdi
 
