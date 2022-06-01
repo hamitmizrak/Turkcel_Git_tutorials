@@ -60,5 +60,14 @@ git branch -D branchAdi  //(Branchi Silmek)
 
 ####################################################################################
 
+git checkout -b backend
+pwd 
+mkdir frontend
+cd frontend/
+cat >> frontend.html
+cd ..
+git add .
+git commit -m "frontend" 
+git checkout main 
 
 
