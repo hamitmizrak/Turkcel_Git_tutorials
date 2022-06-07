@@ -1,10 +1,2 @@
-diğer 1
-diğer 2
-diğer 3
-diğer 4
-diğer 5
-diğer 6
-diğer 7
-diğer 8
-diğer 9
-diğer 10
+1.satır
+2.satır
